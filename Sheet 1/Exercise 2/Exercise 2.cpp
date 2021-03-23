@@ -410,7 +410,7 @@ void ex13c() {
 	cout << "The sum is " << sum << ", the mean is " << mean << " and the standard deviation is " << sdev;
 }
 
-void ex14() { ///////////wip
+void ex14() { 
 	double n, delta, rq = 1;
 	int nMaxIter;
 	int precision = 1;
